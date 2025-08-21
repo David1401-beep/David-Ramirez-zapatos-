@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D375E7-4237-485E-A65C-CF8A364BBF38}|frmMantenimientoZapatos\\Vista.csproj|c:\\users\\usuario\\desktop\\david-ramirez zapatos\\frmmantenimientozapatos\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D375E7-4237-485E-A65C-CF8A364BBF38}|frmMantenimientoZapatos\\Vista.csproj|solutionrelative:frmmantenimientozapatos\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D375E7-4237-485E-A65C-CF8A364BBF38}|frmMantenimientoZapatos\\Vista.csproj|C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmmantenimientozapatos\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D375E7-4237-485E-A65C-CF8A364BBF38}|frmMantenimientoZapatos\\Vista.csproj|solutionrelative:frmmantenimientozapatos\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D375E7-4237-485E-A65C-CF8A364BBF38}|frmMantenimientoZapatos\\frmMantenimientoZapatos.csproj|C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmmantenimientozapatos\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7D375E7-4237-485E-A65C-CF8A364BBF38}|frmMantenimientoZapatos\\frmMantenimientoZapatos.csproj|solutionrelative:frmmantenimientozapatos\\frmmantenimientozapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD6102-1821-467B-9461-24B89DBFDCE6}|Modeloss\\Modelos.csproj|C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\modeloss\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD6102-1821-467B-9461-24B89DBFDCE6}|Modeloss\\Modelos.csproj|solutionrelative:modeloss\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD6102-1821-467B-9461-24B89DBFDCE6}|Modeloss\\Modelos.csproj|C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\modeloss\\entidades\\zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD6102-1821-467B-9461-24B89DBFDCE6}|Modeloss\\Modelos.csproj|solutionrelative:modeloss\\entidades\\zapato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD6102-1821-467B-9461-24B89DBFDCE6}|Modeloss\\Modelos.csproj|C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\modeloss\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD6102-1821-467B-9461-24B89DBFDCE6}|Modeloss\\Modelos.csproj|solutionrelative:modeloss\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D375E7-4237-485E-A65C-CF8A364BBF38}|frmMantenimientoZapatos\\Vista.csproj|C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmmantenimientozapatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D375E7-4237-485E-A65C-CF8A364BBF38}|frmMantenimientoZapatos\\Vista.csproj|solutionrelative:frmmantenimientozapatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD6102-1821-467B-9461-24B89DBFDCE6}|Modeloss\\Modelos.csproj|C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\modeloss\\entidades\\talla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD6102-1821-467B-9461-24B89DBFDCE6}|Modeloss\\Modelos.csproj|solutionrelative:modeloss\\entidades\\talla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D375E7-4237-485E-A65C-CF8A364BBF38}|frmMantenimientoZapatos\\frmMantenimientoZapatos.csproj|C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmmantenimientozapatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D375E7-4237-485E-A65C-CF8A364BBF38}|frmMantenimientoZapatos\\frmMantenimientoZapatos.csproj|solutionrelative:frmmantenimientozapatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06CD6102-1821-467B-9461-24B89DBFDCE6}|Modeloss\\Modeloss.csproj|C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\modeloss\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06CD6102-1821-467B-9461-24B89DBFDCE6}|Modeloss\\Modeloss.csproj|solutionrelative:modeloss\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zapato.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\Modeloss\\Entidades\\Zapato.cs",
+              "RelativeDocumentMoniker": "Modeloss\\Entidades\\Zapato.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\Modeloss\\Entidades\\Zapato.cs",
+              "RelativeToolTip": "Modeloss\\Entidades\\Zapato.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwKsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:48:37.34Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMantenimientoZapatos.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmMantenimientoZapatos\\frmMantenimientoZapatos.cs",
+              "RelativeDocumentMoniker": "frmMantenimientoZapatos\\frmMantenimientoZapatos.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmMantenimientoZapatos\\frmMantenimientoZapatos.cs",
+              "RelativeToolTip": "frmMantenimientoZapatos\\frmMantenimientoZapatos.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAgwH8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:37:35.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMantenimientoZapatos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmMantenimientoZapatos\\frmMantenimientoZapatos.cs",
+              "RelativeDocumentMoniker": "frmMantenimientoZapatos\\frmMantenimientoZapatos.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\Samuel-Cabrera-Zapatos-\\frmMantenimientoZapatos\\frmMantenimientoZapatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Samuel-Cabrera-Zapatos-\\frmMantenimientoZapatos\\frmMantenimientoZapatos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:35:54.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\Modeloss\\Conexion\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "Modeloss\\Conexion\\ConexionDB.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\Modeloss\\Conexion\\ConexionDB.cs",
+              "RelativeToolTip": "Modeloss\\Conexion\\ConexionDB.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:10:41.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmMantenimientoZapatos\\Program.cs",
+              "RelativeDocumentMoniker": "frmMantenimientoZapatos\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmMantenimientoZapatos\\Program.cs",
+              "RelativeToolTip": "frmMantenimientoZapatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T13:41:19.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMantenimientoZapatos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmMantenimientoZapatos\\frmMantenimientoZapatos.cs",
+              "RelativeDocumentMoniker": "frmMantenimientoZapatos\\frmMantenimientoZapatos.cs",
+              "ToolTip": "C:\\Users\\Alex y Andrew\\Desktop\\29Julio\\frmMantenimientoZapatos\\frmMantenimientoZapatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Alex y Andrew\\Desktop\\29Julio\\frmMantenimientoZapatos\\frmMantenimientoZapatos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T14:14:16.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\Modeloss\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Modeloss\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\Modeloss\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Modeloss\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:44:44.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmMantenimientoZapatos\\Program.cs",
+              "RelativeDocumentMoniker": "frmMantenimientoZapatos\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\frmMantenimientoZapatos\\Program.cs",
+              "RelativeToolTip": "frmMantenimientoZapatos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:10:47.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Talla.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\Modeloss\\Entidades\\Talla.cs",
+              "RelativeDocumentMoniker": "Modeloss\\Entidades\\Talla.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\Modeloss\\Entidades\\Talla.cs",
+              "RelativeToolTip": "Modeloss\\Entidades\\Talla.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:45:46.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\Modeloss\\Conexion\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "Modeloss\\Conexion\\ConexionDB.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\David-Ramirez zapatos\\Modeloss\\Conexion\\ConexionDB.cs",
+              "RelativeToolTip": "Modeloss\\Conexion\\ConexionDB.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T20:42:56.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+C:\Users\Alex y Andrew\Desktop\29Julio\Modeloss\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Alex y Andrew\Desktop\29Julio\Modeloss\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Alex y Andrew\Desktop\29Julio\Modeloss\bin\Debug\Modeloss.dll
+C:\Users\Alex y Andrew\Desktop\29Julio\Modeloss\bin\Debug\Modeloss.pdb
+C:\Users\Alex y Andrew\Desktop\29Julio\Modeloss\obj\Debug\Modeloss.dll
+C:\Users\Alex y Andrew\Desktop\29Julio\Modeloss\obj\Debug\Modeloss.pdb
+C:\Users\Estudiante\Desktop\20250623 Actvidad\Modeloss\bin\Debug\Modeloss.dll
+C:\Users\Estudiante\Desktop\20250623 Actvidad\Modeloss\bin\Debug\Modeloss.pdb
+C:\Users\Estudiante\Desktop\20250623 Actvidad\Modeloss\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\20250623 Actvidad\Modeloss\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\20250623 Actvidad\Modeloss\obj\Debug\Modeloss.dll
+C:\Users\Estudiante\Desktop\20250623 Actvidad\Modeloss\obj\Debug\Modeloss.pdb
+C:\Users\Estudiante\Desktop\salvacion\20250623 Actvidad\Modeloss\bin\Debug\Modeloss.dll
+C:\Users\Estudiante\Desktop\salvacion\20250623 Actvidad\Modeloss\bin\Debug\Modeloss.pdb
+C:\Users\Estudiante\Desktop\salvacion\20250623 Actvidad\Modeloss\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\salvacion\20250623 Actvidad\Modeloss\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\salvacion\20250623 Actvidad\Modeloss\obj\Debug\Modeloss.dll
+C:\Users\Estudiante\Desktop\salvacion\20250623 Actvidad\Modeloss\obj\Debug\Modeloss.pdb
+C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\Modeloss\bin\Debug\Modeloss.dll
+C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\Modeloss\bin\Debug\Modeloss.pdb
+C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\Modeloss\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\Modeloss\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\Modeloss\obj\Debug\Modeloss.dll
+C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\Modeloss\obj\Debug\Modeloss.pdb

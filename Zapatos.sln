@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vistas", "Vistas", "{2ECDB2D4-9A85-49E3-AF50-AA41A75A79BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modelos", "Modelos", "{5481A5F9-70A5-416F-9B69-979297EBDB14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modeloss\Modelos.csproj", "{06CD6102-1821-467B-9461-24B89DBFDCE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "frmMantenimientoZapatos\Vista.csproj", "{B7D375E7-4237-485E-A65C-CF8A364BBF38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CD6102-1821-467B-9461-24B89DBFDCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CD6102-1821-467B-9461-24B89DBFDCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CD6102-1821-467B-9461-24B89DBFDCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CD6102-1821-467B-9461-24B89DBFDCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D375E7-4237-485E-A65C-CF8A364BBF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D375E7-4237-485E-A65C-CF8A364BBF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D375E7-4237-485E-A65C-CF8A364BBF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D375E7-4237-485E-A65C-CF8A364BBF38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{06CD6102-1821-467B-9461-24B89DBFDCE6} = {5481A5F9-70A5-416F-9B69-979297EBDB14}
+		{B7D375E7-4237-485E-A65C-CF8A364BBF38} = {2ECDB2D4-9A85-49E3-AF50-AA41A75A79BB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99D6918C-5B3D-4BEC-B1A4-A85AB012A94A}
+	EndGlobalSection
+EndGlobal
