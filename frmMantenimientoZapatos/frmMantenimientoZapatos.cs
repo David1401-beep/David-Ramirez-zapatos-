@@ -33,42 +33,40 @@ namespace frmMantenimientoZapatos
 
         private void cargarZapatos()
         {
-            //--Pestaña 1-------------------------------------------------------------------------//
+
 
             dgvProductos1.DataSource = null;
             dgvProductos1.DataSource = Zapato.cargarZapato();
 
-            //--Pestaña 2-------------------------------------------------------------------------//
 
             dtgProductos2.DataSource = null;
             dtgProductos2.DataSource = Zapato.cargarZapato();
         }
 
-        //crear metodo caragar especialidad o categoria
 
         private void caragarEspecialidad()
         {
-            //--Pestaña 1-----------------------------------------------------------------------------//
+           
 
             cmbCategoria.DataSource = null;
             cmbCategoria.DataSource = Categoria.cargarCategoria();
 
-            //displayMember
+
 
             cmbCategoria.DisplayMember = "Nombre";
             cmbCategoria.ValueMember = "Id";
-            cmbCategoria.SelectedIndex = -1; // No seleccionar nada por defecto
+            cmbCategoria.SelectedIndex = -1; 
 
-            //--Pestaña 2-----------------------------------------------------------------------------//
+            
 
             cmbCategoria2.DataSource = null;
             cmbCategoria2.DataSource = Categoria.cargarCategoria();
 
-            //displayMember
+            
 
             cmbCategoria2.DisplayMember = "Nombre";
             cmbCategoria2.ValueMember = "Id";
-            cmbCategoria2.SelectedIndex = -1; // No seleccionar nada por defecto
+            cmbCategoria2.SelectedIndex = -1; 
         }
 
         private void btnRegistrar_Click(object sender, EventArgs e)

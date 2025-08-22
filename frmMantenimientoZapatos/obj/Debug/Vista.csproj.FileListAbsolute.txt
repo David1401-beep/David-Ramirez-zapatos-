@@ -46,3 +46,16 @@ C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\frmMantenimientoZapatos\obj\Deb
 C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\frmMantenimientoZapatos\obj\Debug\Vista.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\frmMantenimientoZapatos\obj\Debug\frmMantenimientoZapatos.exe
 C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\frmMantenimientoZapatos\obj\Debug\frmMantenimientoZapatos.pdb
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\bin\Debug\frmMantenimientoZapatos.exe.config
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\bin\Debug\frmMantenimientoZapatos.exe
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\bin\Debug\frmMantenimientoZapatos.pdb
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\bin\Debug\Modeloss.dll
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\bin\Debug\Modeloss.pdb
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\obj\Debug\frmMantenimientoZapatos.frmMantenimientoZapatos.resources
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\obj\Debug\frmMantenimientoZapatos.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\obj\Debug\Vista.csproj.Up2Date
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\obj\Debug\frmMantenimientoZapatos.exe
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\frmMantenimientoZapatos\obj\Debug\frmMantenimientoZapatos.pdb

@@ -22,3 +22,9 @@ C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\Modeloss\obj\Debug\Modelos.cspr
 C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\Modeloss\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\Modeloss\obj\Debug\Modeloss.dll
 C:\Users\usuario\Desktop\Samuel-Cabrera-Zapatos-\Modeloss\obj\Debug\Modeloss.pdb
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\Modeloss\bin\Debug\Modeloss.dll
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\Modeloss\bin\Debug\Modeloss.pdb
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\Modeloss\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\Modeloss\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\Modeloss\obj\Debug\Modeloss.dll
+C:\Users\Estudiante\Desktop\David-Ramirez-zapatos-\Modeloss\obj\Debug\Modeloss.pdb
